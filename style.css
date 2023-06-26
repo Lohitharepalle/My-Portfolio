@@ -163,7 +163,7 @@ nav ul li:before {
       background-color: transparent; 
       transition: background-color 0.3s ease;
       margin: auto;
-
+      
     }
     
 nav ul li:hover:before {
